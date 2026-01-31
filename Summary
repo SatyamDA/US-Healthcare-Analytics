@@ -1,0 +1,15 @@
+# US Healthcare Data Analysis 🏥
+
+A comprehensive analysis of 10,000 patient healthcare records across the United States, exploring patterns in medical conditions, treatment outcomes, billing practices, and insurance coverage.
+
+- **10,000 Patient Records** - Extensive dataset covering diverse demographics, medical conditions, and treatment journeys from 2019-2023
+
+- **Multi-dimensional Analysis** - Examines correlations between patient demographics (age, gender, blood type), medical conditions (Diabetes, Cancer, Asthma, Arthritis, Hypertension, Obesity), and billing amounts
+
+- **Insurance Provider Insights** - Compares treatment costs and patterns across major US insurers (Medicare, UnitedHealthcare, Aetna, Cigna, Blue Cross)
+
+- **Clinical Outcomes Tracking** - Analyzes test results (Normal, Abnormal, Inconclusive) and their relationships with prescribed medications and admission types
+
+- **Hospital & Provider Analytics** - Evaluates performance metrics across different healthcare facilities and physician practices
+
+- **Actionable Healthcare Intelligence** - Identifies cost optimization opportunities, treatment effectiveness patterns, and resource allocation trends for healthcare stakeholders
